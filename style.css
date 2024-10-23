@@ -22,6 +22,7 @@ a{
 }
 main{
     display: flex;
+	
 }
 div{
     height: 350px;
@@ -35,5 +36,8 @@ footer{
 }
 li{
     text-align: left;
+}
+table{
+    text-align: center;
 }
 
